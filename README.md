@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Sofascore Scraper](https://github.com/Benjabella/SofascoreScraper)
 
-- 🌱 I’m currently learning **DevOP, Self Hosting**
+- 🌱 I’m currently learning **DevOP, Self Hosting, Software Engineering**
 
 - 👯 I’m looking to collaborate on [Sofascore Scraper](https://github.com/Benjabella/SofascoreScraper)
 
